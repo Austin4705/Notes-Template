@@ -1,1 +1,4 @@
 tmp/
+*.log
+*.fdb_latexmk
+.tmp/main.aux
