@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.2)  5 FEB 2023 02:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.2)  5 FEB 2023 02:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1262,10 +1262,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 37040 strings out of 475385
- 741854 string characters out of 2776908
- 1173307 words of memory out of 3000000
- 57736 multiletter control sequences out of 15000+600000
+ 37041 strings out of 475385
+ 741858 string characters out of 2776908
+ 1173318 words of memory out of 3000000
+ 57737 multiletter control sequences out of 15000+600000
  482567 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  104i,7n,102p,477b,537s stack positions out of 10000i,1000n,20000p,200000b,80000s
